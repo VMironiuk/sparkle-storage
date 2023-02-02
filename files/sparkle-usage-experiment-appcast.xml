@@ -6,7 +6,7 @@
             <title>4.0</title>
             <pubDate>Thu, 02 Feb 2023 16:40:57 +0200</pubDate>
             <sparkle:minimumSystemVersion>13.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://vmironiuk.github.io/sparkle-storage/files/SparkleUsageExperiment.pkg" sparkle:version="4" sparkle:shortVersionString="3.0" type="application/octet-stream" sparkle:edSignature="Nf8nZj6SjAovxz6zsf+45trcIIcFI1tVLikRrBPauqs1WjTSRE2L3Y35Elbf4iTL9l6gxy0iS5cSkt/5eH/jDg==" length="905535"/>
+            <enclosure url="https://vmironiuk.github.io/sparkle-storage/files/SparkleUsageExperiment.pkg" sparkle:version="4" sparkle:shortVersionString="4.0" type="application/octet-stream" sparkle:edSignature="Nf8nZj6SjAovxz6zsf+45trcIIcFI1tVLikRrBPauqs1WjTSRE2L3Y35Elbf4iTL9l6gxy0iS5cSkt/5eH/jDg==" length="905535"/>
         </item>
     </channel>
 </rss>
