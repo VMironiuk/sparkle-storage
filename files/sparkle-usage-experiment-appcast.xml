@@ -3,10 +3,10 @@
     <channel>
         <title>SparkleUsageExperiment</title>
         <item>
-            <title>3.0</title>
-            <pubDate>Thu, 02 Feb 2023 14:40:57 +0200</pubDate>
+            <title>4.0</title>
+            <pubDate>Thu, 02 Feb 2023 16:40:57 +0200</pubDate>
             <sparkle:minimumSystemVersion>13.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://vmironiuk.github.io/sparkle-storage/files/SparkleUsageExperiment.pkg" sparkle:version="3" sparkle:shortVersionString="3.0" type="application/octet-stream" sparkle:edSignature="Uecl8lp6FDJKjDxkL7t/X24NiEKvJg0UPsxQE/4hoG1A4bClGWAUQHUq9BQRnch81uibfT9iQgdDxyqXIrdQDg==" length="905552"/>
+            <enclosure url="https://vmironiuk.github.io/sparkle-storage/files/SparkleUsageExperiment.pkg" sparkle:version="4" sparkle:shortVersionString="3.0" type="application/octet-stream" sparkle:edSignature="Nf8nZj6SjAovxz6zsf+45trcIIcFI1tVLikRrBPauqs1WjTSRE2L3Y35Elbf4iTL9l6gxy0iS5cSkt/5eH/jDg==" length="905535"/>
         </item>
     </channel>
 </rss>
