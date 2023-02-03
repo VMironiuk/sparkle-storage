@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>SparkleUsageExperiment</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 03 Feb 2023 13:48:41 +0200</pubDate>
+            <sparkle:minimumSystemVersion>13.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://vmironiuk.github.io/sparkle-storage/v1/files/SparkleUsageExperiment.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="2118856" type="application/octet-stream" sparkle:edSignature="vd/elnnzVEvFJth8mchLTVgHQI/GLBDGAytXHUSOylkl4097g7JtRaAJ8zDcZ6geCRzdj7h40pqmZGvu+Kl4Cg=="/>
+        </item>
+    </channel>
+</rss>
